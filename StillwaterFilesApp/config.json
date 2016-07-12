@@ -1,0 +1,13 @@
+﻿{
+  "directories": {
+    "in": "S:\\Ty",
+    "out": "S:\\Ty"
+  },
+  "files": {
+    "in": [
+      "tiffs.txt",
+      "files3.txt"
+    ],
+    "out": "file_diffs.txt"
+  }
+}
