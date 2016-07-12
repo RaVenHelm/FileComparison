@@ -47,6 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config\Configuration.cs" />
+    <Compile Include="Config\IConfigStore.cs" />
+    <Compile Include="Config\IConfiguration.cs" />
+    <Compile Include="Config\JsonConfig.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
