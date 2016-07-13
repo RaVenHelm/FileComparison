@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config\Config.cs" />
     <Compile Include="Config\Configuration.cs" />
     <Compile Include="Config\IConfigStore.cs" />
     <Compile Include="Config\IConfiguration.cs" />
